@@ -1,0 +1,23 @@
+{
+    "name": "loteria/s",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/",
+            "app\\": "app/",
+            "config\\": "config/",
+            "views\\": "views/"
+        }
+    },
+    "authors": [
+        {
+            "name": "g4bri3ll",
+            "email": "gabrieldonascimentoborges@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.2"
+    },
+    "require": {
+        "coffeecode/router": "^2.0"
+    }
+}

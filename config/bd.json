@@ -1,9 +1,0 @@
-[
-    {
-        "local": "localhost",
-        "banco": "mysql",
-        "database": "loteria",
-        "user": "root",
-        "password": "root"
-    }
-]
